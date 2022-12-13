@@ -22,19 +22,19 @@ It is most common for bike trips to be less than one hour, and the majority of t
 <img width="1128" alt="3_TripDurationGender" src="https://user-images.githubusercontent.com/111471057/206912579-015ea630-cdc9-4487-b67e-c3ca1d6e68ac.png">
 Here we can see the breakdown of trip duration by a user's gender. Knowing that 65% of usage in the month was male explains why the spike on the graph nearly matches the overall trip duration from the previous visualization, but we can see a very similar drop off of time used for females as well. 
 
-### Total Usage by Weekday
+### Total Usage by Time and Weekday
 <img width="712" alt="4_Weekday" src="https://user-images.githubusercontent.com/111471057/206912593-006c922b-8088-47f5-b50f-c0fac02c6e19.png">
-
+This visualisation shows that bike usage mimicks vehicle usage. There are more bikes being used during traditional rush hour times, as well as higher usage during the day on Saturdays. There is significantly less use Wednesday evenings. The reason behind this is not in the data, and is possibly specific to transit pricing or availability in NYC on Wednesdays.
 
 ### Weekday Usage by Gender
 <img width="1483" alt="5_WeekdayGender" src="https://user-images.githubusercontent.com/111471057/206912624-78a456b0-ba84-4920-8aa9-5e7b1e97a434.png">
-
+Reviewing the same time and weekday usage split by gender we can see the pattern of rush hour usage is mirrored with male and female users. There is a slightly different pattern for the users of unknown gender; the usage is higher on weekends. 
 
 ### Weekday Usage by Gender and Customer Type
 <img width="638" alt="6_WeekdayCustomer" src="https://user-images.githubusercontent.com/111471057/206912651-3a42f420-448f-4f81-bc70-bdaf0e59458e.png">
-
+In this visualization it is clear now that the users of unknown gender are not subscriptions users. It is most likely that these users are tourists or visitors and only need use of the bikes on the weekend. Because subscribers use the bikes less on the weekend, the customers help to keep the usage up.
 
 ## Summary
-Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+This analysis shows that bike usage is in high demand every day of the week, and the bike sharing program benefits locals and vistors. Further analysis could be performed on the provided data to show a heatmap for age and gender of subscribers to get a better idea of who repeat customers are. Additionally, a visualization could be made for the location of bike stations and well as the total number that is supporting the program.
 
 [Link to Tableau Public Story](https://public.tableau.com/app/profile/kimber.evans/viz/Bikesharing_Challenge_16705526505010/Story1)
